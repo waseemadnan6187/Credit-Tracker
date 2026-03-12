@@ -1,0 +1,7 @@
+{
+  "name": "BillTrack Pro",
+  "description": "A comprehensive billing and recovery management system for shop tracking, featuring real-time balance calculations, recovery logging, and financial insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
